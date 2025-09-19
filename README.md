@@ -1,31 +1,34 @@
-# Best GitHub Profile READMEs
+# Отчет по практической работе №3 
 
-![Preview](./preview.gif)
-
-## What is this Project?
+## Студент: Sharipov Danis
 
 **"Best GitHub Profile READMEs"** is a curated list of **Beautiful** and **Unique** GitHub Profile **Readme** files.
 
-[This website](https://maxrohowsky.github.io/best-github-profile-readme/) showcases all the Profiles. Under each profile you'll see a link to the persons GitHub account and Readme file.
+1. Использованные виджеты<br>
+В ходе практической работы были использованы следующие виджеты Flutter:<br>
+•	Scaffold - базовый каркас интерфейса с AppBar и body<br>
+•	AppBar - верхняя панель приложения с заголовком<br>
+•	Column - вертикальное расположение элементов<br>
+•	Text - текстовые элементы с различным стилем<br>
+•	ElevatedButton - кнопка с приподнятым эффектом<br>
+•	Container - контейнер для оформления содержимого<br>
+•	SizedBox - виджет для создания отступов<br>
+•	Card - карточка с закругленными углами и тенью<br>
+•	Row - горизонтальное расположение элементов<br>
+•	Icon - отображение иконок<br>
 
-I encourage everyone to contribute to this project by **adding profiles** or **fixing bugs**. To learn more about how to contribute  [click here](#contribute-to-the-list).
+## 2. Изменение стилей и цветов
+В работе применялись следующие стили и цвета:<br>
+Цвета:<br>
+•	AppBar: синий фон (Colors.blue) и белый текст<br>
+•	Текст приветствия: стандартный цвет<br>
+•	Кнопка: стандартный цвет фона (зеленый)<br>
+•	Container: зеленый фон (Colors.green)<br>
+•	Иконки: желтый (Colors.amber) и красный (Colors.red)<br>
+Шрифты:<br>
+•	Заголовок AppBar: размер 24, жирное начертание (FontWeight.bold)<br>
+•	Основной текст: стандартные параметры<br>
+Компоновка:<br>
+•	Добавлены отступы с помощью SizedBox<br>
+![photo](screen.png)
 
-**Support:**
-<br>
-Star 🌟 the Project: ![GitHub stars](https://img.shields.io/github/stars/maxrohowsky/best-github-profile-readme.svg?style=social&label=Star)
-<br>
-Follow 🤝 on GitHub: ![GitHub followers](https://img.shields.io/github/followers/maxrohowsky.svg?style=social&label=Follow)
-<br>
-
-**Fun fact:** 
-<br>
-The [website](https://maxrohowsky.github.io/best-github-profile-readme/) is fully automized. Profiles that are added to the [markdown list below](#best-profiles-readmes) via approved Pull Requests are automatically added to the [website](https://maxrohowsky.github.io/best-github-profile-readme/) using GitHub actions.
-
-## Table of Contents
-
-- [Best GitHub Profile READMEs](#best-github-profile-readmes)
-  - [What is this Project?](#what-is-this-project)
-  - [Table of Contents](#table-of-contents)
-  - [Best Profiles READMEs](#best-profiles-readmes)
-  - [Contribute](#contribute)
-  - [License](#license)
