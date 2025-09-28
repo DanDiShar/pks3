@@ -2,9 +2,9 @@
 
 ## Студент: Sharipov Danis
 
-**"Best GitHub Profile READMEs"** is a curated list of **Beautiful** and **Unique** GitHub Profile **Readme** files.
 
-1. Использованные виджеты<br>
+
+## 1. Использованные виджеты<br>
 В ходе практической работы были использованы следующие виджеты Flutter:<br>
 •	Scaffold - базовый каркас интерфейса с AppBar и body<br>
 •	AppBar - верхняя панель приложения с заголовком<br>
@@ -31,4 +31,5 @@
 Компоновка:<br>
 •	Добавлены отступы с помощью SizedBox<br>
 ![photo](screen.png)
+
 
